@@ -6,11 +6,11 @@ printf("Input:");
 scanf("%d",&year);
 if(year%4==0)
 {
-printf("Yes",year);
+printf("Output:Yes",year);
 }
 else
 {
-printf("No",year);
+printf("Output:No",year);
 }
 return 0;
 }
